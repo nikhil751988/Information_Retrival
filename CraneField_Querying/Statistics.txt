@@ -1,0 +1,1342 @@
+Following is the Query Document Relevance:
+
+For Query1: 
+
+Max Term Weighting Scheme: 
+Document 51: 1.7118179734364223 Rank: 1
+Header: theory of aircraft structural models subjected to aerodynamic heating and external loads . 
+
+Document 486: 1.5773917146286995 Rank: 2
+Header: similarity laws for aerothermoelastic testing . 
+
+Document 329: 1.494249535102929 Rank: 3
+Header: various aerodynamic characteristics in hypersonic rarefied gas flow . 
+
+Document 573: 1.2843580905231966 Rank: 4
+Header: viscous hypersonic similitude . 
+
+Document 12: 1.121923646787603 Rank: 5
+Header: some structural and aerelastic considerations of high speed flight . 
+
+Document 878: 1.042446666663275 Rank: 6
+Header: experimental model techniques and equipment for flutter investigations . 
+
+Document 14: 1.0259061851455784 Rank: 7
+Header: piston theory - a new aerodynamic tool for the aeroelastician . 
+
+Document 792: 0.9650676543958673 Rank: 8
+Header: some low speed problems of high speed aircraft . 
+
+Document 172: 0.9216289132102882 Rank: 9
+Header: some aerodynamic considerations of nozzle afterbody combination . 
+
+Document 746: 0.896826422932442 Rank: 10
+Header: aeroelastic problems in connection with high speed flight . 
+
+
+ Okapi Weighting Scheme: 
+Document51: 3.0844908992574376 Rank: 1
+Header: theory of aircraft structural models subjected to aerodynamic heating and external loads . 
+
+Document486: 2.989574368576994 Rank: 2
+Header: similarity laws for aerothermoelastic testing . 
+
+Document329: 2.6918646441253657 Rank: 3
+Header: various aerodynamic characteristics in hypersonic rarefied gas flow . 
+
+Document878: 2.5059027288317575 Rank: 4
+Header: experimental model techniques and equipment for flutter investigations . 
+
+Document12: 2.501588328698003 Rank: 5
+Header: some structural and aerelastic considerations of high speed flight . 
+
+Document573: 2.5000962975804377 Rank: 6
+Header: viscous hypersonic similitude . 
+
+Document576: 2.1762494086266666 Rank: 7
+Header: viscous and inviscid stagnation flow in a dissociated hypervelocity free stream . 
+
+Document746: 1.9892253783345213 Rank: 8
+Header: aeroelastic problems in connection with high speed flight . 
+
+Document141: 1.9651066332599252 Rank: 9
+Header: free-flight techniques for high speed aerodynamic research . 
+
+Document747: 1.945699987549126 Rank: 10
+Header: bodt freedom flutter of ground launched rocket models at supersonic and high subsonic speeds . 
+
+
+
+For Query2: 
+
+Max Term Weighting Scheme: 
+Document 12: 1.674804620700768 Rank: 1
+Header: some structural and aerelastic considerations of high speed flight . 
+
+Document 51: 1.2278324033745809 Rank: 2
+Header: theory of aircraft structural models subjected to aerodynamic heating and external loads . 
+
+Document 14: 1.182223153066073 Rank: 3
+Header: piston theory - a new aerodynamic tool for the aeroelastician . 
+
+Document 746: 1.1054855854261558 Rank: 4
+Header: aeroelastic problems in connection with high speed flight . 
+
+Document 1380: 1.0977150353065757 Rank: 5
+Header: the problem of obtaining high lift-drag ratios at supersonic speeds . 
+
+Document 792: 1.0934947913133666 Rank: 6
+Header: some low speed problems of high speed aircraft . 
+
+Document 172: 1.0861251153127625 Rank: 7
+Header: some aerodynamic considerations of nozzle afterbody combination . 
+
+Document 100: 0.9976054910530798 Rank: 8
+Header: vibration isolation of aircraft power plants . 
+
+Document 1169: 0.9105692232866477 Rank: 9
+Header: hangling qualities experience with several vtol research aircraft . 
+
+Document 1089: 0.9016706453553587 Rank: 10
+Header: aerodynamic characteristics of propeller-driven vtol aircraft . 
+
+
+ Okapi Weighting Scheme: 
+Document12: 3.5878914290200408 Rank: 1
+Header: some structural and aerelastic considerations of high speed flight . 
+
+Document172: 2.7732689452263295 Rank: 2
+Header: some aerodynamic considerations of nozzle afterbody combination . 
+
+Document1380: 2.731074122480591 Rank: 3
+Header: the problem of obtaining high lift-drag ratios at supersonic speeds . 
+
+Document746: 2.4987065090658427 Rank: 4
+Header: aeroelastic problems in connection with high speed flight . 
+
+Document51: 2.493011394138723 Rank: 5
+Header: theory of aircraft structural models subjected to aerodynamic heating and external loads . 
+
+Document1089: 2.3914745602573557 Rank: 6
+Header: aerodynamic characteristics of propeller-driven vtol aircraft . 
+
+Document14: 2.3384300461169025 Rank: 7
+Header: piston theory - a new aerodynamic tool for the aeroelastician . 
+
+Document792: 2.32463234637207 Rank: 8
+Header: some low speed problems of high speed aircraft . 
+
+Document798: 2.129943952494708 Rank: 9
+Header: interaction between shock waves and boundary layers, with a note on the effects of the interaction of the performance of supersonic intakes . 
+
+Document1169: 2.002818076385659 Rank: 10
+Header: hangling qualities experience with several vtol research aircraft . 
+
+
+
+For Query3: 
+
+Max Term Weighting Scheme: 
+Document 144: 1.8656733255918927 Rank: 1
+Header: heat flow in composite slabs . 
+
+Document 1072: 1.5970260435959462 Rank: 2
+Header: ignition and combustion in a laminar mixing zone . 
+
+Document 5: 1.516016720497555 Rank: 3
+Header: one-dimensional transient heat conduction into a double-layer slab subjected to a linear heat input for a small time internal . 
+
+Document 485: 1.473055591656749 Rank: 4
+Header: linear heat flow in a composite slab . 
+
+Document 91: 1.425235865891029 Rank: 5
+Header: periodic temperature distribution in a two-layer composite slab . 
+
+Document 344: 1.3108663583601363 Rank: 6
+Header: some experimental techniques in mass transfer cooling . 
+
+Document 90: 1.3041436142733565 Rank: 7
+Header: periodic temperature distributions in a two-layer composite slab . 
+
+Document 542: 1.2334782985239074 Rank: 8
+Header: biot's variational principle in heat conduction . 
+
+Document 579: 1.2078809780410216 Rank: 9
+Header: further developments of new methods in heat flow analysis . 
+
+Document 399: 1.1782985765172487 Rank: 10
+Header: conduction of heat in composite slabs . 
+
+
+ Okapi Weighting Scheme: 
+Document1072: 2.729268814388359 Rank: 1
+Header: ignition and combustion in a laminar mixing zone . 
+
+Document485: 2.2769068501777383 Rank: 2
+Header: linear heat flow in a composite slab . 
+
+Document344: 2.268807453318719 Rank: 3
+Header: some experimental techniques in mass transfer cooling . 
+
+Document5: 2.256274980773486 Rank: 4
+Header: one-dimensional transient heat conduction into a double-layer slab subjected to a linear heat input for a small time internal . 
+
+Document144: 2.2287349041861804 Rank: 5
+Header: heat flow in composite slabs . 
+
+Document399: 2.147373427420836 Rank: 6
+Header: conduction of heat in composite slabs . 
+
+Document181: 2.0652704425110526 Rank: 7
+Header: some problems on heat conduction in stratiform bodies . 
+
+Document542: 1.9711576271404976 Rank: 8
+Header: biot's variational principle in heat conduction . 
+
+Document579: 1.963433304320362 Rank: 9
+Header: further developments of new methods in heat flow analysis . 
+
+Document623: 1.899325863795019 Rank: 10
+Header: on the coupling between heat and mass transfer . 
+
+
+
+For Query4: 
+
+Max Term Weighting Scheme: 
+Document 1061: 2.6333810151613903 Rank: 1
+Header: turbulent mixing of a rocket exhaust jet with a supersonic stream including chemical reactions . 
+
+Document 166: 2.588907115852327 Rank: 2
+Header: flow of chemically reacting gas mixtures . 
+
+Document 185: 2.1869265438070697 Rank: 3
+Header: some possibilities of using gas mixtures other than in aerodynamic research . 
+
+Document 488: 2.114684938855686 Rank: 4
+Header: a reaction-rate parameter for gasdynamics of a chemically reacting gas mixture . 
+
+Document 575: 2.031090833922665 Rank: 5
+Header: atomic recombination in a hypersonic wind tunnel nozzle . 
+
+Document 24: 1.8732238910012764 Rank: 6
+Header: theory of stagnation point heat transfer in dissociated air . 
+
+Document 1315: 1.865065544944928 Rank: 7
+Header: performance estimates for the rae 6in . high-pressure shock tube . 
+
+Document 167: 1.8454266027430506 Rank: 8
+Header: linearized flow of a dissociating gas . 
+
+Document 576: 1.7469618797213258 Rank: 9
+Header: viscous and inviscid stagnation flow in a dissociated hypervelocity free stream . 
+
+Document 1072: 1.7316060971731067 Rank: 10
+Header: ignition and combustion in a laminar mixing zone . 
+
+
+ Okapi Weighting Scheme: 
+Document1061: 4.348495171836316 Rank: 1
+Header: turbulent mixing of a rocket exhaust jet with a supersonic stream including chemical reactions . 
+
+Document1255: 4.155664162813234 Rank: 2
+Header: the flow about a charged body moving in the lower atmosphere . 
+
+Document24: 4.132850719723817 Rank: 3
+Header: theory of stagnation point heat transfer in dissociated air . 
+
+Document166: 4.097693846923091 Rank: 4
+Header: flow of chemically reacting gas mixtures . 
+
+Document167: 3.9255715057002614 Rank: 5
+Header: linearized flow of a dissociating gas . 
+
+Document1315: 3.8912234603887867 Rank: 6
+Header: performance estimates for the rae 6in . high-pressure shock tube . 
+
+Document575: 3.8180416690427554 Rank: 7
+Header: atomic recombination in a hypersonic wind tunnel nozzle . 
+
+Document435: 3.6887954413731054 Rank: 8
+Header: application of similar solutions to calculations of laminar heat transfer on bodies with yaw and large pressure gradients in high speed flow . 
+
+Document576: 3.5997810334516256 Rank: 9
+Header: viscous and inviscid stagnation flow in a dissociated hypervelocity free stream . 
+
+Document1189: 3.497524696893605 Rank: 10
+Header: nonequilibrium flow past a wedge . 
+
+
+
+For Query5: 
+
+Max Term Weighting Scheme: 
+Document 401: 1.1868407131854546 Rank: 1
+Header: inviscid hypersonic airflows with coupled non-equilibrium processes . 
+
+Document 625: 1.0381373281322925 Rank: 2
+Header: viscous and inviscid nonequilibrium gas flows . 
+
+Document 103: 0.9717951742567226 Rank: 3
+Header: theory of mixing and chemical reaction in the opposed jet diffusion flame . 
+
+Document 163: 0.9527724594178678 Rank: 4
+Header: an analysis of the corridor and guidance requirements for supercircular entry planetary atmospheres . 
+
+Document 552: 0.9205044437813708 Rank: 5
+Header: chemical kinetics of high temperature air . 
+
+Document 1032: 0.8679321970300375 Rank: 6
+Header: on the conservativeness of various distributed force systems . 
+
+Document 1296: 0.8585792822714748 Rank: 7
+Header: non-equilibrium expansions of air with coupled chemical reactions . 
+
+Document 943: 0.832993884163111 Rank: 8
+Header: compressible free shear layer with finite initial thickness . 
+
+Document 968: 0.7937804596741622 Rank: 9
+Header: rocket propulsion systems for interplanetary flight . 
+
+Document 344: 0.7570372725024617 Rank: 10
+Header: some experimental techniques in mass transfer cooling . 
+
+
+ Okapi Weighting Scheme: 
+Document401: 2.373996646520038 Rank: 1
+Header: inviscid hypersonic airflows with coupled non-equilibrium processes . 
+
+Document625: 2.2931951711937217 Rank: 2
+Header: viscous and inviscid nonequilibrium gas flows . 
+
+Document163: 2.249080327805862 Rank: 3
+Header: an analysis of the corridor and guidance requirements for supercircular entry planetary atmospheres . 
+
+Document1032: 2.0099839582127403 Rank: 4
+Header: on the conservativeness of various distributed force systems . 
+
+Document552: 1.933494026197863 Rank: 5
+Header: chemical kinetics of high temperature air . 
+
+Document981: 1.8442302854339483 Rank: 6
+Header: solutions to the heat-conduction equation with time dependent boundary conditions . 
+
+Document342: 1.8104859998261118 Rank: 7
+Header: effect of diffusion fields on the laminar boundary layer . 
+
+Document344: 1.7888475252865248 Rank: 8
+Header: some experimental techniques in mass transfer cooling . 
+
+Document1147: 1.7516549525456118 Rank: 9
+Header: heat transfer to bodies traveling at high speed in the upper atmosphere . 
+
+Document103: 1.6558894365935228 Rank: 10
+Header: theory of mixing and chemical reaction in the opposed jet diffusion flame . 
+
+
+
+For Query6: 
+
+Max Term Weighting Scheme: 
+Document 798: 1.4076172926894754 Rank: 1
+Header: interaction between shock waves and boundary layers, with a note on the effects of the interaction of the performance of supersonic intakes . 
+
+Document 315: 1.1609349217296798 Rank: 2
+Header: scale effects at high subsonic and transonic speeds and methods for fixing transition in model experiments . 
+
+Document 491: 1.0251396568118836 Rank: 3
+Header: on the close relationship between turbulent plane-couette and pressure flows . 
+
+Document 257: 0.9056561305263843 Rank: 4
+Header: on turbulen flow between parallel plates . 
+
+Document 344: 0.8651497329813941 Rank: 5
+Header: some experimental techniques in mass transfer cooling . 
+
+Document 121: 0.8165180105236729 Rank: 6
+Header: a theory for base pressures in transonic and supersonic flow . 
+
+Document 767: 0.7587595905875217 Rank: 7
+Header: mathematical techniques applying to the thermal fatigue behaviour of high temperature alloys . 
+
+Document 160: 0.7546614551563142 Rank: 8
+Header: approximate analytical solutions for hypersonic flow past slender power-law bodies . 
+
+Document 522: 0.7251863990884474 Rank: 9
+Header: laminar, transitional and turbulent heat transfer to a cone-cylinder-flare body at mach 8. 0. 
+
+Document 148: 0.7237469959495374 Rank: 10
+Header: on displacement thickness . 
+
+
+ Okapi Weighting Scheme: 
+Document121: 2.3228456136205864 Rank: 1
+Header: a theory for base pressures in transonic and supersonic flow . 
+
+Document798: 2.2612721180065782 Rank: 2
+Header: interaction between shock waves and boundary layers, with a note on the effects of the interaction of the performance of supersonic intakes . 
+
+Document491: 2.050928313176543 Rank: 3
+Header: on the close relationship between turbulent plane-couette and pressure flows . 
+
+Document257: 1.9077752688711307 Rank: 4
+Header: on turbulen flow between parallel plates . 
+
+Document315: 1.8865810620034622 Rank: 5
+Header: scale effects at high subsonic and transonic speeds and methods for fixing transition in model experiments . 
+
+Document148: 1.8830968113316693 Rank: 6
+Header: on displacement thickness . 
+
+Document1374: 1.854464281654548 Rank: 7
+Header: theoretical analysis of turbulent mixing of reactive gases with application to supersonic combustion of hydrogen . 
+
+Document287: 1.8541648615227617 Rank: 8
+Header: some theoretical low-speed loading characteristics of swept wings in roll and sideslip . 
+
+Document610: 1.852172340513401 Rank: 9
+Header: corner interference effects . 
+
+Document767: 1.842549500918524 Rank: 10
+Header: mathematical techniques applying to the thermal fatigue behaviour of high temperature alloys . 
+
+
+
+For Query7: 
+
+Max Term Weighting Scheme: 
+Document 492: 3.335830295302207 Rank: 1
+Header: prediction of ogive-forebody pressures at angles of attack . 
+
+Document 1040: 2.545571145066169 Rank: 2
+Header: on transverse vibrations of thin, shallow elastic shells . 
+
+Document 57: 2.442377072631177 Rank: 3
+Header: applicability of the hypersonic similarity rule to pressure distributions which include the effects of rotation for bodies of revolution at zero angle of attack . 
+
+Document 56: 2.3933617163672154 Rank: 4
+Header: an analysis of the applicability of the hypersonic similarity law to the study of the flow about bodies of revolution at zero angle of attack . 
+
+Document 373: 2.3701845722306545 Rank: 5
+Header: the generalized expansion method and its application to bodies travelling at high supersonic airspeeds . 
+
+Document 124: 2.3697988296377703 Rank: 6
+Header: a summary of the supersonic pressure drag of bodies of revolution . 
+
+Document 232: 2.3414067892832917 Rank: 7
+Header: accuracy of approximate methods for predicting pressure on pointed non-lifting bodies of revolution in supersonic flow . 
+
+Document 234: 2.2070090625972996 Rank: 8
+Header: a second order shock-expansion method applicable to bodies of revolution near zero lift . 
+
+Document 434: 2.1179142816192065 Rank: 9
+Header: contributions of the wing panels to the forces and moments of supersonic wing-body combinations at combined angles . 
+
+Document 688: 2.057749911896462 Rank: 10
+Header: tables of aerodynamic coefficients obtained from developed newtonian expressions for complete and partial conic and spheric bodies at combined angles of attack and sideslip with some comparisons with hypersonic experimental data . 
+
+
+ Okapi Weighting Scheme: 
+Document492: 7.4783063151220075 Rank: 1
+Header: prediction of ogive-forebody pressures at angles of attack . 
+
+Document57: 5.438307665705127 Rank: 2
+Header: applicability of the hypersonic similarity rule to pressure distributions which include the effects of rotation for bodies of revolution at zero angle of attack . 
+
+Document232: 5.304978159999096 Rank: 3
+Header: accuracy of approximate methods for predicting pressure on pointed non-lifting bodies of revolution in supersonic flow . 
+
+Document124: 5.2732615619357155 Rank: 4
+Header: a summary of the supersonic pressure drag of bodies of revolution . 
+
+Document373: 5.139054272403828 Rank: 5
+Header: the generalized expansion method and its application to bodies travelling at high supersonic airspeeds . 
+
+Document56: 4.977347206964201 Rank: 6
+Header: an analysis of the applicability of the hypersonic similarity law to the study of the flow about bodies of revolution at zero angle of attack . 
+
+Document122: 4.820832663493073 Rank: 7
+Header: a simplified approximate method for the calculation of the pressure around conical bodies of arbitrary shape in supersonic and hypersonic flow . 
+
+Document234: 4.725297616496148 Rank: 8
+Header: a second order shock-expansion method applicable to bodies of revolution near zero lift . 
+
+Document1104: 4.544938797361359 Rank: 9
+Header: aerodynamic heating of blunt nose shapes at mach numbers up to 14 . 
+
+Document1231: 4.447198533083499 Rank: 10
+Header: hypersonic flow over an elliptic cone: theory and experiment . 
+
+
+
+For Query8: 
+
+Max Term Weighting Scheme: 
+Document 122: 1.6425266081726677 Rank: 1
+Header: a simplified approximate method for the calculation of the pressure around conical bodies of arbitrary shape in supersonic and hypersonic flow . 
+
+Document 443: 1.5334023952720983 Rank: 2
+Header: calculated and measured pressure distributions over the midspan section of the naca 4412 airfoil . 
+
+Document 907: 1.5243504166635795 Rank: 3
+Header: cavitation and pressure distribution head forms at zero angle of yaw . 
+
+Document 433: 1.4176959447784263 Rank: 4
+Header: application of two dimensional vortex theory to the prediction of flow fields behind wings of wing-body combinations at subsonic and supersonic speeds . 
+
+Document 234: 1.3406374158837564 Rank: 5
+Header: a second order shock-expansion method applicable to bodies of revolution near zero lift . 
+
+Document 476: 1.3110474286435614 Rank: 6
+Header: the blasius equation with three-point boundary conditions . 
+
+Document 124: 1.218765459966527 Rank: 7
+Header: a summary of the supersonic pressure drag of bodies of revolution . 
+
+Document 1231: 1.215334116503009 Rank: 8
+Header: hypersonic flow over an elliptic cone: theory and experiment . 
+
+Document 492: 1.1944696556559855 Rank: 9
+Header: prediction of ogive-forebody pressures at angles of attack . 
+
+Document 1104: 1.1894099729858465 Rank: 10
+Header: aerodynamic heating of blunt nose shapes at mach numbers up to 14 . 
+
+
+ Okapi Weighting Scheme: 
+Document122: 4.243296338309308 Rank: 1
+Header: a simplified approximate method for the calculation of the pressure around conical bodies of arbitrary shape in supersonic and hypersonic flow . 
+
+Document492: 3.858026793323817 Rank: 2
+Header: prediction of ogive-forebody pressures at angles of attack . 
+
+Document124: 3.6424475931574434 Rank: 3
+Header: a summary of the supersonic pressure drag of bodies of revolution . 
+
+Document292: 3.6059538852979456 Rank: 4
+Header: rapid laminar boundary layer calculations by piece-wise application of similar solutions . 
+
+Document433: 3.5955441911570944 Rank: 5
+Header: application of two dimensional vortex theory to the prediction of flow fields behind wings of wing-body combinations at subsonic and supersonic speeds . 
+
+Document443: 3.3574717394785 Rank: 6
+Header: calculated and measured pressure distributions over the midspan section of the naca 4412 airfoil . 
+
+Document1231: 3.3301732417584096 Rank: 7
+Header: hypersonic flow over an elliptic cone: theory and experiment . 
+
+Document248: 3.295035856336722 Rank: 8
+Header: the application of lighthill formula for numerical calculation of pressure distributions on bodies of revolution at supersonic speed and zero angle of attack . 
+
+Document234: 3.29188327628411 Rank: 9
+Header: a second order shock-expansion method applicable to bodies of revolution near zero lift . 
+
+Document232: 3.2624173044261626 Rank: 10
+Header: accuracy of approximate methods for predicting pressure on pointed non-lifting bodies of revolution in supersonic flow . 
+
+
+
+For Query9: 
+
+Max Term Weighting Scheme: 
+Document 45: 1.0607603362094165 Rank: 1
+Header: an investigation of separated flows, part ii: flow in the cavity and heat transfer . 
+
+Document 571: 0.872941137351984 Rank: 2
+Header: heat transfer to flat plate in high temperature rarefied ultra-high mach number flow . 
+
+Document 306: 0.8596934151066461 Rank: 3
+Header: second approximation to laminar compressible boundary layer on flat plate in slip flow . 
+
+Document 270: 0.7765987531397658 Rank: 4
+Header: on combined free and forced convection laminar magnetohydrodynamic flow and heat transfer in channels with transverse magnetic field . 
+
+Document 21: 0.7692768701613171 Rank: 5
+Header: on heat transfer in slip flow . 
+
+Document 22: 0.7570161957675939 Rank: 6
+Header: on slip-flow heat transfer to a flat plate . 
+
+Document 1204: 0.7506871014569783 Rank: 7
+Header: experimental effect of bluntness and gas rarefaction on drag coefficients and stagnation heat transfer on axisymmetric shapes in hypersonic flow . 
+
+Document 89: 0.7184568765252823 Rank: 8
+Header: an investigation of separated flows, part i: the pressure field . 
+
+Document 1215: 0.7100160325797803 Rank: 9
+Header: the effect of slip particularly for highly cooled walls . 
+
+Document 102: 0.6938666580066042 Rank: 10
+Header: advantages and limitations of models . 
+
+
+ Okapi Weighting Scheme: 
+Document45: 2.9041437325727926 Rank: 1
+Header: an investigation of separated flows, part ii: flow in the cavity and heat transfer . 
+
+Document270: 2.3432564163786305 Rank: 2
+Header: on combined free and forced convection laminar magnetohydrodynamic flow and heat transfer in channels with transverse magnetic field . 
+
+Document549: 2.3353069956700967 Rank: 3
+Header: experimental study of the velocity and temperature distribution in a high-velocity vortex-type flow . 
+
+Document489: 2.2494614541460223 Rank: 4
+Header: on calculation of the laminar separation point and results of certain flows . 
+
+Document1268: 2.2106564799019432 Rank: 5
+Header: stable combustion of a high-velocity gas in a heated boundary layer . 
+
+Document89: 2.1712322790960927 Rank: 6
+Header: an investigation of separated flows, part i: the pressure field . 
+
+Document21: 2.067914040790485 Rank: 7
+Header: on heat transfer in slip flow . 
+
+Document306: 2.027267942491562 Rank: 8
+Header: second approximation to laminar compressible boundary layer on flat plate in slip flow . 
+
+Document22: 2.009845502261053 Rank: 9
+Header: on slip-flow heat transfer to a flat plate . 
+
+Document102: 2.000245237164812 Rank: 10
+Header: advantages and limitations of models . 
+
+
+
+For Query10: 
+
+Max Term Weighting Scheme: 
+Document 493: 2.0650319648458333 Rank: 1
+Header: real-gas laminar boundary layer skin friction and heat transfer . 
+
+Document 302: 1.7721377587310052 Rank: 2
+Header: approximations for the thermodynamic and transport properties of high temperature air . 
+
+Document 949: 1.4038278818684828 Rank: 3
+Header: charts for equilibrium flow properties of air in hypervelocity nozzles . 
+
+Document 1199: 1.2064420169826697 Rank: 4
+Header: theoretical investigations of a supersonic laminar boundary layer with foreign-gas injection . 
+
+Document 1010: 1.147494446142305 Rank: 5
+Header: free-flight measurements of the static and dynamic 
+
+Document 329: 1.1452159210460535 Rank: 6
+Header: various aerodynamic characteristics in hypersonic rarefied gas flow . 
+
+Document 1264: 1.1357938046655174 Rank: 7
+Header: boundary layer transition and heat transfer in shock tubes . 
+
+Document 1214: 1.1239746187486204 Rank: 8
+Header: the drag of elongated bodies over a wide reynolds number range . 
+
+Document 272: 1.0878863489576063 Rank: 9
+Header: oscillatory aerodynamic coefficients for a unified supersonic hypersonic strip theory . 
+
+Document 110: 1.0856734970395259 Rank: 10
+Header: dynamics of a dissociating gas . 
+
+
+ Okapi Weighting Scheme: 
+Document302: 3.089838775737139 Rank: 1
+Header: approximations for the thermodynamic and transport properties of high temperature air . 
+
+Document493: 2.653632493851064 Rank: 2
+Header: real-gas laminar boundary layer skin friction and heat transfer . 
+
+Document1010: 2.441974683192954 Rank: 3
+Header: free-flight measurements of the static and dynamic 
+
+Document1264: 2.348310143783105 Rank: 4
+Header: boundary layer transition and heat transfer in shock tubes . 
+
+Document949: 2.1810783112569396 Rank: 5
+Header: charts for equilibrium flow properties of air in hypervelocity nozzles . 
+
+Document524: 2.0969106812585068 Rank: 6
+Header: stagnation point heat transfer in partially ionized air . 
+
+Document616: 2.0135362650509805 Rank: 7
+Header: determination of upper-atmosphere air density and scale height from satellite observations . 
+
+Document1214: 1.9987050084452609 Rank: 8
+Header: the drag of elongated bodies over a wide reynolds number range . 
+
+Document781: 1.9414610906345047 Rank: 9
+Header: use of subsonic kernel function in an influence-coefficient method of aeroelastic analysis and some comparisons with experiment . 
+
+Document541: 1.903859917444857 Rank: 10
+Header: similitude of hypersonic flows over slender bodies in non-equilibrium dissociated gases . 
+
+
+
+For Query11: 
+
+Max Term Weighting Scheme: 
+Document 495: 1.92524347497476 Rank: 1
+Header: on similar solutions for strong blast waves and their application to steady hypersonic flow . 
+
+Document 25: 1.3230305527436461 Rank: 2
+Header: inviscid hypersonic flow over blunt-nosed slender bodies . 
+
+Document 72: 1.3145065163622902 Rank: 3
+Header: boundary layer behind shock or thin expansion wave moving into stationary fluid . 
+
+Document 556: 1.212941833584286 Rank: 4
+Header: numerical comparison between exact and approximate theories of hypersonic inviscid flow past slender blunt nosed bodies . 
+
+Document 1280: 1.125922971334013 Rank: 5
+Header: wings with minimum drag due to lift in supersonic flow . 
+
+Document 1310: 1.1167886605834842 Rank: 6
+Header: survey of inviscid hypersonic flow theory for geometrically slender shapes . 
+
+Document 1356: 1.0870735269991973 Rank: 7
+Header: secondary flow fields embedded in hypersonic shock layers . 
+
+Document 1375: 1.0818898036637992 Rank: 8
+Header: an approximate solution for the axisymmetric jet of a laminar compressible fluid . 
+
+Document 262: 1.0688780118037005 Rank: 9
+Header: the formation of a blast wave by a very intense explosion . 
+
+Document 28: 1.0436899881263488 Rank: 10
+Header: a note on the explosion solution of sedov with application to the newtonian theory of unsteady hypersonic flow . 
+
+
+ Okapi Weighting Scheme: 
+Document495: 3.6869350727302614 Rank: 1
+Header: on similar solutions for strong blast waves and their application to steady hypersonic flow . 
+
+Document72: 2.833433873760715 Rank: 2
+Header: boundary layer behind shock or thin expansion wave moving into stationary fluid . 
+
+Document1280: 2.7567970917907862 Rank: 3
+Header: wings with minimum drag due to lift in supersonic flow . 
+
+Document1375: 2.7211238415734993 Rank: 4
+Header: an approximate solution for the axisymmetric jet of a laminar compressible fluid . 
+
+Document472: 2.4434347550385382 Rank: 5
+Header: waves in supersonic flow . 
+
+Document1186: 2.4190632972095942 Rank: 6
+Header: lift of slender delta wings according to newtonian theory . 
+
+Document28: 2.402688428352227 Rank: 7
+Header: a note on the explosion solution of sedov with application to the newtonian theory of unsteady hypersonic flow . 
+
+Document305: 2.399742290850008 Rank: 8
+Header: hypersonic strong viscous interaction on a flat plate with surface mass transfer . 
+
+Document570: 2.380558846246162 Rank: 9
+Header: on the boundary layer equations in hypersonic flow and their approximate solutions . 
+
+Document25: 2.3271500615421825 Rank: 10
+Header: inviscid hypersonic flow over blunt-nosed slender bodies . 
+
+
+
+For Query12: 
+
+Max Term Weighting Scheme: 
+Document 966: 1.2946866180671683 Rank: 1
+Header: on fully developed channel flows,. some solutions and limitations, and effects of compressibility, variable properties, and body forces . 
+
+Document 624: 1.2888833854826793 Rank: 2
+Header: cruise performance of channel-flow ground effect machines . 
+
+Document 704: 1.0758175538976684 Rank: 3
+Header: a systematic kernel function procedure for determining aerodynamic forces on oscillating or steady finite wings at subsonic speeds . 
+
+Document 792: 1.0443203789773041 Rank: 4
+Header: some low speed problems of high speed aircraft . 
+
+Document 329: 1.0171120488401406 Rank: 5
+Header: various aerodynamic characteristics in hypersonic rarefied gas flow . 
+
+Document 325: 0.9125943091938149 Rank: 6
+Header: heat transfer to constant property laminar boundary layer flows with power function free stream velocity and wall temperature variation . 
+
+Document 1164: 0.8661515250967665 Rank: 7
+Header: effect of ground proximity on the aerodynamic characteristics of a four- engined vertical take-off and landing transport airplane model with tilting wing and propellers . 
+
+Document 917: 0.8568612822518747 Rank: 8
+Header: a method of calculating the short period longitudinal stability derivatives of a wing in linearised unsteady compressible flow . 
+
+Document 1289: 0.8465367199751491 Rank: 9
+Header: numerical technique to lifting surface theory for calculation of unsteady aerodynamic forces due to continuous sinusoidal gusts on several wing planforms at sobsonic speeds . 
+
+Document 1209: 0.8133777012049448 Rank: 10
+Header: aerodynamic processes in the downwash-impingement problem . 
+
+
+ Okapi Weighting Scheme: 
+Document624: 2.8683171854416196 Rank: 1
+Header: cruise performance of channel-flow ground effect machines . 
+
+Document966: 2.854846514165545 Rank: 2
+Header: on fully developed channel flows,. some solutions and limitations, and effects of compressibility, variable properties, and body forces . 
+
+Document792: 2.6517007289972625 Rank: 3
+Header: some low speed problems of high speed aircraft . 
+
+Document917: 2.6489748206732044 Rank: 4
+Header: a method of calculating the short period longitudinal stability derivatives of a wing in linearised unsteady compressible flow . 
+
+Document329: 2.6285719469513324 Rank: 5
+Header: various aerodynamic characteristics in hypersonic rarefied gas flow . 
+
+Document704: 2.346515404979171 Rank: 6
+Header: a systematic kernel function procedure for determining aerodynamic forces on oscillating or steady finite wings at subsonic speeds . 
+
+Document325: 2.2997711100632436 Rank: 7
+Header: heat transfer to constant property laminar boundary layer flows with power function free stream velocity and wall temperature variation . 
+
+Document749: 2.2915930260543815 Rank: 8
+Header: the aerodynamic effects of aspect ratio and sweepback on wing flutter . 
+
+Document1289: 2.2874496279076553 Rank: 9
+Header: numerical technique to lifting surface theory for calculation of unsteady aerodynamic forces due to continuous sinusoidal gusts on several wing planforms at sobsonic speeds . 
+
+Document1339: 2.243148225940948 Rank: 10
+Header: calculation of flutter characteristics for finite-span swept or unswept wings at subsonic and supersonic speeds by a modified strip analysis . 
+
+
+
+For Query13: 
+
+Max Term Weighting Scheme: 
+Document 496: 1.6304039114207733 Rank: 1
+Header: a theory of transonic aileron buzz, neglecting viscous effects . 
+
+Document 903: 1.1309885118399907 Rank: 2
+Header: two dimensional transonic unsteady flow with shock waves . 
+
+Document 520: 1.00947246766234 Rank: 3
+Header: wing-tail interference as a cause of 'magnus' effects on a finned missile . 
+
+Document 199: 0.7487522308825305 Rank: 4
+Header: measurement of two dimensional derivatives on a wing-aileron-tab system . 
+
+Document 797: 0.6486352159799228 Rank: 5
+Header: a study of the effect of leading-edge modifications on the flow over a 50degree sweptback wing at transonic speeds . 
+
+Document 643: 0.6295770850353033 Rank: 6
+Header: an investigation of wing-aileron flutter using ground launched rocket models . 
+
+Document 313: 0.5652656631570905 Rank: 7
+Header: on alternative forms for the basic equations of transonic flow theory . 
+
+Document 440: 0.5652656631570905 Rank: 8
+Header: compilation of information on the transonic attachment of flows at the leading edge of airfoils . 
+
+Document 38: 0.5600428506222399 Rank: 9
+Header: on the prediction of mixed subsonic/supersonic pressure distributions . 
+
+Document 1268: 0.5511250392852477 Rank: 10
+Header: stable combustion of a high-velocity gas in a heated boundary layer . 
+
+
+ Okapi Weighting Scheme: 
+Document496: 1.981951569770506 Rank: 1
+Header: a theory of transonic aileron buzz, neglecting viscous effects . 
+
+Document903: 1.6009648399682819 Rank: 2
+Header: two dimensional transonic unsteady flow with shock waves . 
+
+Document520: 1.548848650175823 Rank: 3
+Header: wing-tail interference as a cause of 'magnus' effects on a finned missile . 
+
+Document313: 1.0998338135976649 Rank: 4
+Header: on alternative forms for the basic equations of transonic flow theory . 
+
+Document38: 1.083971066437563 Rank: 5
+Header: on the prediction of mixed subsonic/supersonic pressure distributions . 
+
+Document440: 1.0691729041114488 Rank: 6
+Header: compilation of information on the transonic attachment of flows at the leading edge of airfoils . 
+
+Document880: 1.0527146017449798 Rank: 7
+Header: the design and testing of supersonic flutter models . 
+
+Document415: 1.01745176005084 Rank: 8
+Header: the aerodynamic design of section shapes for swept wings . 
+
+Document797: 0.9980944171627265 Rank: 9
+Header: a study of the effect of leading-edge modifications on the flow over a 50degree sweptback wing at transonic speeds . 
+
+Document927: 0.9004848240586032 Rank: 10
+Header: investigation of normal force distributions and wake vortex characteristics of bodies of revolution at supersonic speeds . 
+
+
+
+For Query14: 
+
+Max Term Weighting Scheme: 
+Document 798: 0.8535686197460819 Rank: 1
+Header: interaction between shock waves and boundary layers, with a note on the effects of the interaction of the performance of supersonic intakes . 
+
+Document 170: 0.7142444299572217 Rank: 2
+Header: the interaction of a reflected shock wave with the boundary layer in a shock tube . 
+
+Document 439: 0.589016468279661 Rank: 3
+Header: a factor affecting transonic leading edge flow separation . 
+
+Document 1313: 0.581636275218212 Rank: 4
+Header: on the flow in a reflected shock tunnel . 
+
+Document 329: 0.5542409961291059 Rank: 5
+Header: various aerodynamic characteristics in hypersonic rarefied gas flow . 
+
+Document 1364: 0.5344033262876597 Rank: 6
+Header: an experimental investigation of the interaction between shock waves and boundary layers . 
+
+Document 256: 0.5057901599403166 Rank: 7
+Header: an experimental study of the glancing interaction between a shock wave and a turbulent boundary layer . 
+
+Document 64: 0.49889948272847084 Rank: 8
+Header: unsteady oblique interaction of a shock wave with plane disturbances . 
+
+Document 345: 0.4883203051295507 Rank: 9
+Header: the interaction of shock waves with boundary layer on a flat surface . 
+
+Document 569: 0.4870673833585256 Rank: 10
+Header: an experimental investigation of leading edge shock wave boundary layer interaction at mach 5.8 . 
+
+
+ Okapi Weighting Scheme: 
+Document170: 1.4879916346072737 Rank: 1
+Header: the interaction of a reflected shock wave with the boundary layer in a shock tube . 
+
+Document798: 1.4709536611117402 Rank: 2
+Header: interaction between shock waves and boundary layers, with a note on the effects of the interaction of the performance of supersonic intakes . 
+
+Document439: 1.4559758460370174 Rank: 3
+Header: a factor affecting transonic leading edge flow separation . 
+
+Document1313: 1.329442476978302 Rank: 4
+Header: on the flow in a reflected shock tunnel . 
+
+Document329: 1.316521836320328 Rank: 5
+Header: various aerodynamic characteristics in hypersonic rarefied gas flow . 
+
+Document256: 1.062742739404184 Rank: 6
+Header: an experimental study of the glancing interaction between a shock wave and a turbulent boundary layer . 
+
+Document335: 1.049911831947457 Rank: 7
+Header: the interaction between boundary layer and shock waves in transonic flow . 
+
+Document345: 1.0438425531546727 Rank: 8
+Header: the interaction of shock waves with boundary layer on a flat surface . 
+
+Document1364: 1.0423912260675134 Rank: 9
+Header: an experimental investigation of the interaction between shock waves and boundary layers . 
+
+Document291: 1.0276264580572843 Rank: 10
+Header: sweepback effects in the turbulent boundary-layer shock-wave interaction . 
+
+
+
+For Query15: 
+
+Max Term Weighting Scheme: 
+Document 462: 1.4692136190335747 Rank: 1
+Header: photo-thermoelasticity . 
+
+Document 1025: 1.0037137960718658 Rank: 2
+Header: note on creep buckling of columns . 
+
+Document 82: 1.002800252794993 Rank: 3
+Header: theoretical investigation of the ablation of a glass-type heat protection shield of varied material properties at the stagnation point of a re-entering irbm . 
+
+Document 1097: 0.897469541251974 Rank: 4
+Header: experimental ablation cooling . 
+
+Document 542: 0.8790531715695856 Rank: 5
+Header: biot's variational principle in heat conduction . 
+
+Document 463: 0.8790531715695856 Rank: 6
+Header: physical properties of plastics for photo-thermoelastic investigation . 
+
+Document 1043: 0.839346906806513 Rank: 7
+Header: on transverse vibrations of thin, shallow elastic shells . 
+
+Document 1099: 0.779065625745431 Rank: 8
+Header: a theoretical study of stagnation point ablation . 
+
+Document 1127: 0.779065625745431 Rank: 9
+Header: the buckling of sandwich type panels . 
+
+Document 1024: 0.779065625745431 Rank: 10
+Header: note on creep buckling of columns . 
+
+
+ Okapi Weighting Scheme: 
+Document462: 2.24163039911158 Rank: 1
+Header: photo-thermoelasticity . 
+
+Document463: 1.6299739649247256 Rank: 2
+Header: physical properties of plastics for photo-thermoelastic investigation . 
+
+Document1025: 1.6245356367294783 Rank: 3
+Header: note on creep buckling of columns . 
+
+Document1099: 1.6122946733644672 Rank: 4
+Header: a theoretical study of stagnation point ablation . 
+
+Document1340: 1.5661683246047462 Rank: 5
+Header: method of controlling stiffness properties of a solid-construction model wing . 
+
+Document1043: 1.5532290056950002 Rank: 6
+Header: on transverse vibrations of thin, shallow elastic shells . 
+
+Document82: 1.5500825683938295 Rank: 7
+Header: theoretical investigation of the ablation of a glass-type heat protection shield of varied material properties at the stagnation point of a re-entering irbm . 
+
+Document542: 1.5496113618962748 Rank: 8
+Header: biot's variational principle in heat conduction . 
+
+Document1065: 1.5435964719132573 Rank: 9
+Header: a free-flight investigation of ablation of a blunt body to a mach number of 13 .1. 
+
+Document817: 1.507344001662109 Rank: 10
+Header: loading paths and the incremental stress law . 
+
+
+
+For Query16: 
+
+Max Term Weighting Scheme: 
+Document 498: 1.8813827222655135 Rank: 1
+Header: calculation of potential flow about bodies of revolution having axes perpendicular to the free-stream direction . 
+
+Document 1255: 1.4088863430349234 Rank: 2
+Header: the flow about a charged body moving in the lower atmosphere . 
+
+Document 927: 1.3439960492722 Rank: 3
+Header: investigation of normal force distributions and wake vortex characteristics of bodies of revolution at supersonic speeds . 
+
+Document 1328: 1.1578464192631308 Rank: 4
+Header: the production of aerodynamic forces by heat addition on external surfaces of aircraft . 
+
+Document 266: 1.115599361274404 Rank: 5
+Header: exact solution of the neumann problem . calculation for non- circulatory plane and axially symmetric flows about or within arbitrary boundaries . 
+
+Document 869: 1.113379822565609 Rank: 6
+Header: the calculation of transient temperature in turbine blades and tapered discs using biot's variational method . 
+
+Document 976: 1.078844562504532 Rank: 7
+Header: turbulent diffusion in the wake of a blunt nosed body at hypersonic speeds . 
+
+Document 106: 1.044908243506617 Rank: 8
+Header: the transverse potential flow past a body of revolution . 
+
+Document 231: 1.029875268095271 Rank: 9
+Header: practical calculation of second-order supersonic flow past non-lifting bodies of revolution . 
+
+Document 704: 1.0208357643614192 Rank: 10
+Header: a systematic kernel function procedure for determining aerodynamic forces on oscillating or steady finite wings at subsonic speeds . 
+
+
+ Okapi Weighting Scheme: 
+Document498: 4.019320731366129 Rank: 1
+Header: calculation of potential flow about bodies of revolution having axes perpendicular to the free-stream direction . 
+
+Document1255: 3.3982814807978254 Rank: 2
+Header: the flow about a charged body moving in the lower atmosphere . 
+
+Document927: 3.1705511694716546 Rank: 3
+Header: investigation of normal force distributions and wake vortex characteristics of bodies of revolution at supersonic speeds . 
+
+Document231: 2.926366931172998 Rank: 4
+Header: practical calculation of second-order supersonic flow past non-lifting bodies of revolution . 
+
+Document266: 2.8392176988457587 Rank: 5
+Header: exact solution of the neumann problem . calculation for non- circulatory plane and axially symmetric flows about or within arbitrary boundaries . 
+
+Document801: 2.7477335177061843 Rank: 6
+Header: experimental study of the equivalence of transonic flow about slender cone-cylinders of circular and elliptic cross section . 
+
+Document869: 2.727365629866709 Rank: 7
+Header: the calculation of transient temperature in turbine blades and tapered discs using biot's variational method . 
+
+Document1356: 2.6908114141845414 Rank: 8
+Header: secondary flow fields embedded in hypersonic shock layers . 
+
+Document704: 2.6852969008034364 Rank: 9
+Header: a systematic kernel function procedure for determining aerodynamic forces on oscillating or steady finite wings at subsonic speeds . 
+
+Document1248: 2.63890684513859 Rank: 10
+Header: an analytic extension of the shock-expansion method . 
+
+
+
+For Query17: 
+
+Max Term Weighting Scheme: 
+Document 1108: 1.9039053400233927 Rank: 1
+Header: a study of second-order supersonic flow theory . 
+
+Document 1281: 1.4403435869887116 Rank: 2
+Header: turbulent heat transfer on blunt-nosed bodies in two-dimensional and general three-dimensional hypersonic flow . 
+
+Document 94: 1.3868908838742275 Rank: 3
+Header: the transverse curvature effect in compressible axially symmetric laminar boundary layer flow . 
+
+Document 373: 1.3832892441411633 Rank: 4
+Header: the generalized expansion method and its application to bodies travelling at high supersonic airspeeds . 
+
+Document 1301: 1.3546728067590348 Rank: 5
+Header: compressible boundary layers on bodies of revolution . 
+
+Document 927: 1.3486399219369691 Rank: 6
+Header: investigation of normal force distributions and wake vortex characteristics of bodies of revolution at supersonic speeds . 
+
+Document 498: 1.3223422866299819 Rank: 7
+Header: calculation of potential flow about bodies of revolution having axes perpendicular to the free-stream direction . 
+
+Document 1201: 1.2738746688778884 Rank: 8
+Header: a study of slender shapes of minimum drag using the newton-busemann pressure coefficient law . 
+
+Document 410: 1.242136683498028 Rank: 9
+Header: the supersonic flow about a blunt body of revolution for gases at chemical equilibrium . 
+
+Document 266: 1.2016878331359122 Rank: 10
+Header: exact solution of the neumann problem . calculation for non- circulatory plane and axially symmetric flows about or within arbitrary boundaries . 
+
+
+ Okapi Weighting Scheme: 
+Document1108: 3.869748606273545 Rank: 1
+Header: a study of second-order supersonic flow theory . 
+
+Document1248: 3.48361924516511 Rank: 2
+Header: an analytic extension of the shock-expansion method . 
+
+Document1301: 3.3286837361256687 Rank: 3
+Header: compressible boundary layers on bodies of revolution . 
+
+Document1281: 3.317309765619636 Rank: 4
+Header: turbulent heat transfer on blunt-nosed bodies in two-dimensional and general three-dimensional hypersonic flow . 
+
+Document1255: 3.2619456757126475 Rank: 5
+Header: the flow about a charged body moving in the lower atmosphere . 
+
+Document373: 3.194798920181011 Rank: 6
+Header: the generalized expansion method and its application to bodies travelling at high supersonic airspeeds . 
+
+Document1224: 3.1630690246314597 Rank: 7
+Header: on the plk method and the supersonic blunt-body problem . 
+
+Document927: 3.1410247181132123 Rank: 8
+Header: investigation of normal force distributions and wake vortex characteristics of bodies of revolution at supersonic speeds . 
+
+Document1235: 3.141023762967114 Rank: 9
+Header: a theory of the two dimensional laminar bounary layer over a curved surface . 
+
+Document662: 3.1149338713391344 Rank: 10
+Header: theoretical and experimental investigation of aerodynamicheating and isothermal heat transfer parameters on a hemisphere nose with laminar boundary layer at supersonic mach numbers . 
+
+
+
+For Query18: 
+
+Max Term Weighting Scheme: 
+Document 197: 1.478575740861979 Rank: 1
+Header: pressure distributions on three bodies of revolution to determine the effect of reynolds number up to and including the transonic speed range . 
+
+Document 927: 1.414517233786628 Rank: 2
+Header: investigation of normal force distributions and wake vortex characteristics of bodies of revolution at supersonic speeds . 
+
+Document 234: 1.3925298303298517 Rank: 3
+Header: a second order shock-expansion method applicable to bodies of revolution near zero lift . 
+
+Document 1352: 1.2303084764645786 Rank: 4
+Header: aerodynamic investigation of a parabolic body of revolution at mach number of 1. 92 and some effects of an annular supersonic jet exhausting from the base . 
+
+Document 498: 1.2250756317128246 Rank: 5
+Header: calculation of potential flow about bodies of revolution having axes perpendicular to the free-stream direction . 
+
+Document 225: 1.206485417658742 Rank: 6
+Header: elliptic cones alone and with wings at supersonic speeds . 
+
+Document 56: 1.1796686044495959 Rank: 7
+Header: an analysis of the applicability of the hypersonic similarity law to the study of the flow about bodies of revolution at zero angle of attack . 
+
+Document 248: 1.1362604252380695 Rank: 8
+Header: the application of lighthill formula for numerical calculation of pressure distributions on bodies of revolution at supersonic speed and zero angle of attack . 
+
+Document 232: 1.1164990121029452 Rank: 9
+Header: accuracy of approximate methods for predicting pressure on pointed non-lifting bodies of revolution in supersonic flow . 
+
+Document 1104: 1.100263020049684 Rank: 10
+Header: aerodynamic heating of blunt nose shapes at mach numbers up to 14 . 
+
+
+ Okapi Weighting Scheme: 
+Document197: 3.365835207068381 Rank: 1
+Header: pressure distributions on three bodies of revolution to determine the effect of reynolds number up to and including the transonic speed range . 
+
+Document498: 3.3246455724343136 Rank: 2
+Header: calculation of potential flow about bodies of revolution having axes perpendicular to the free-stream direction . 
+
+Document234: 3.293623936573502 Rank: 3
+Header: a second order shock-expansion method applicable to bodies of revolution near zero lift . 
+
+Document1352: 3.2572481732099448 Rank: 4
+Header: aerodynamic investigation of a parabolic body of revolution at mach number of 1. 92 and some effects of an annular supersonic jet exhausting from the base . 
+
+Document927: 3.2395942787623344 Rank: 5
+Header: investigation of normal force distributions and wake vortex characteristics of bodies of revolution at supersonic speeds . 
+
+Document225: 3.1624683311685398 Rank: 6
+Header: elliptic cones alone and with wings at supersonic speeds . 
+
+Document248: 2.9547071926146353 Rank: 7
+Header: the application of lighthill formula for numerical calculation of pressure distributions on bodies of revolution at supersonic speed and zero angle of attack . 
+
+Document56: 2.876590399995832 Rank: 8
+Header: an analysis of the applicability of the hypersonic similarity law to the study of the flow about bodies of revolution at zero angle of attack . 
+
+Document1231: 2.8611479081808486 Rank: 9
+Header: hypersonic flow over an elliptic cone: theory and experiment . 
+
+Document232: 2.836325744743532 Rank: 10
+Header: accuracy of approximate methods for predicting pressure on pointed non-lifting bodies of revolution in supersonic flow . 
+
+
+
+For Query19: 
+
+Max Term Weighting Scheme: 
+Document 82: 1.4668348064388932 Rank: 1
+Header: theoretical investigation of the ablation of a glass-type heat protection shield of varied material properties at the stagnation point of a re-entering irbm . 
+
+Document 140: 1.3092531534991336 Rank: 2
+Header: the determination of turbulent skin friction by means of pitot tubes . 
+
+Document 44: 1.0242526199855897 Rank: 3
+Header: tip-bluntness effects on cone pressures at m=6.85. 
+
+Document 1119: 1.014959230768172 Rank: 4
+Header: plastic stability theory of thin shells . 
+
+Document 344: 1.0074604235287299 Rank: 5
+Header: some experimental techniques in mass transfer cooling . 
+
+Document 453: 0.9977780855369413 Rank: 6
+Header: the influence of two-dimensional stream shear on airfoil maximum lift . 
+
+Document 927: 0.989145653504081 Rank: 7
+Header: investigation of normal force distributions and wake vortex characteristics of bodies of revolution at supersonic speeds . 
+
+Document 416: 0.9821546877945104 Rank: 8
+Header: methods of boundary-layer control for postponing and alleviating buffeting and other effects of shock-induced separation . 
+
+Document 987: 0.9754906621021086 Rank: 9
+Header: a general theory of three dimensional flow in subsonic and supersonic turbo-machines of axial-radial-and mixed-flow types . 
+
+Document 274: 0.9635516081632383 Rank: 10
+Header: analysis of quartz and teflon shields for a particular re-entry mission . 
+
+
+ Okapi Weighting Scheme: 
+Document140: 2.7272654077201173 Rank: 1
+Header: the determination of turbulent skin friction by means of pitot tubes . 
+
+Document927: 2.59148093875699 Rank: 2
+Header: investigation of normal force distributions and wake vortex characteristics of bodies of revolution at supersonic speeds . 
+
+Document82: 2.396782592371007 Rank: 3
+Header: theoretical investigation of the ablation of a glass-type heat protection shield of varied material properties at the stagnation point of a re-entering irbm . 
+
+Document453: 2.3054223666039224 Rank: 4
+Header: the influence of two-dimensional stream shear on airfoil maximum lift . 
+
+Document416: 2.2893127466031724 Rank: 5
+Header: methods of boundary-layer control for postponing and alleviating buffeting and other effects of shock-induced separation . 
+
+Document44: 2.2836990544948583 Rank: 6
+Header: tip-bluntness effects on cone pressures at m=6.85. 
+
+Document122: 2.2686589741562577 Rank: 7
+Header: a simplified approximate method for the calculation of the pressure around conical bodies of arbitrary shape in supersonic and hypersonic flow . 
+
+Document274: 2.2676649675355405 Rank: 8
+Header: analysis of quartz and teflon shields for a particular re-entry mission . 
+
+Document1119: 2.258194135294973 Rank: 9
+Header: plastic stability theory of thin shells . 
+
+Document628: 2.2391304086498014 Rank: 10
+Header: thermal effects on a transpiration cooled hemisphere . 
+
+
+
+For Query20: 
+
+Max Term Weighting Scheme: 
+Document 500: 1.6681916445232594 Rank: 1
+Header: joule heating in magnetohydrodynamic free-convection flows . 
+
+Document 270: 1.5763089420855252 Rank: 2
+Header: on combined free and forced convection laminar magnetohydrodynamic flow and heat transfer in channels with transverse magnetic field . 
+
+Document 625: 1.246625214261346 Rank: 3
+Header: viscous and inviscid nonequilibrium gas flows . 
+
+Document 44: 1.1408907230841674 Rank: 4
+Header: tip-bluntness effects on cone pressures at m=6.85. 
+
+Document 267: 1.1045431472925298 Rank: 5
+Header: steady and transient free convection of an electrically conducting fluid from a vertical plate in the presence of a magnetic field . 
+
+Document 1371: 1.0153265897139114 Rank: 6
+Header: axisymmetric free mixing with swirl . 
+
+Document 268: 1.0117829458246865 Rank: 7
+Header: several magnetohydrodynamic free-convection solutions . 
+
+Document 87: 0.9955793705506355 Rank: 8
+Header: free-convection magnetohydrodynamic flow past a porous flat plate . 
+
+Document 88: 0.947596098761663 Rank: 9
+Header: magnetohydrodynamic free-convection pipe flow . 
+
+Document 584: 0.9373309113531416 Rank: 10
+Header: conduction of heat in a solid with a power law of heat transfer at its surface . 
+
+
+ Okapi Weighting Scheme: 
+Document625: 3.1999020510778826 Rank: 1
+Header: viscous and inviscid nonequilibrium gas flows . 
+
+Document44: 3.1170279603533206 Rank: 2
+Header: tip-bluntness effects on cone pressures at m=6.85. 
+
+Document270: 3.063791721915831 Rank: 3
+Header: on combined free and forced convection laminar magnetohydrodynamic flow and heat transfer in channels with transverse magnetic field . 
+
+Document268: 2.8697779130473116 Rank: 4
+Header: several magnetohydrodynamic free-convection solutions . 
+
+Document500: 2.8292808114060475 Rank: 5
+Header: joule heating in magnetohydrodynamic free-convection flows . 
+
+Document84: 2.7799650486284486 Rank: 6
+Header: experimental investigation of the downstream influence of stagnation point mass transfer . 
+
+Document1222: 2.726120985187279 Rank: 7
+Header: axisymmetric magnetohydrodynamic channel flow . 
+
+Document123: 2.7245184705199086 Rank: 8
+Header: the downstream influence of mass transfer at the nose of a slender cone . 
+
+Document456: 2.7059401250419137 Rank: 9
+Header: a study of flow fields about some typical blunt-nosed slender bodies . 
+
+Document375: 2.6703069973799103 Rank: 10
+Header: steady flow in the laminar boundary layer of a gas . 
+
+
+
