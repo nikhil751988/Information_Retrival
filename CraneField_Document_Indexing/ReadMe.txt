@@ -22,4 +22,4 @@ Method b:
      
 If Running on Linux
 	There is a method for creating the Jar file using jarCreater.sh provided in JarCreater folder. 
-	The Readme.txt in this folder contains the methods to be followed to create the executable jar using Shell Script file.s
+	The Readme.txt in this folder contains the methods to be followed to create the executable jar using Shell Script file
