@@ -19,10 +19,10 @@ Each Sub Project's purpose is as follows:
 	 								
 	b. CraneField_Document_Indexing: 
 	This module builds the indexes and inverted indexes by applying Stemming process,
-	compresses the indexing structure and stores it into a file. A set of statistics are 
-	displayed along with compressed and uncompressed indexed structure size to highlight 
-	the minimal disk space usage of compressed structure. The Gamma-Delta encoding 
-	scheme is used in Compression.
+	compresses the indexing structure and stores it into a file. A set of statistics 
+	are displayed along with compressed and uncompressed indexed structure size to 
+	highlight the minimal disk space usage of compressed structure. The Gamma-Delta 
+	encoding scheme is used in Compression.
 									 
 	c. CraneField_Querying: 
 	In this module, a set of pre-defined queries are provided which are parsed and by 
