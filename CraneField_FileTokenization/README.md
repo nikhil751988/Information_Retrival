@@ -1,6 +1,5 @@
-########################
-# Running Instructions #
-########################
+RUNNING INSTRUCTIONS
+======================
 
 Two ways of Running the Project:
 
