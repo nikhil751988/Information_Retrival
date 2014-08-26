@@ -1,6 +1,5 @@
-################################################################
-##################### Project Description ######################
-################################################################
+PROJECT DESCRIPTION
+=====================
 
 This Repository, contains three sub projects which cumulatively builds a Text Based Search Engine
 
